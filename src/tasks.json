@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Task 1",
+      "assignedTo": "user@example.com",
+      "status": "Open",
+      "priority": "Medium",
+      "startDate": "01Jan2024",
+      "endDate": ""
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "assignedTo": "user2@example.com",
+      "status": "Done",
+      "priority": "High",
+      "startDate": "02Jan2024",
+      "endDate": "02Jan2024"
+    },
+    {
+        "id": 3,
+        "title": "Task 2",
+        "assignedTo": "user2@example.com",
+        "status": "Done",
+        "priority": "High",
+        "startDate": "02Jan2024",
+        "endDate": "02Jan2024"
+      },
+      {
+        "id": 4,
+        "title": "Task 2",
+        "assignedTo": "user2@example.com",
+        "status": "Done",
+        "priority": "High",
+        "startDate": "02Jan2024",
+        "endDate": "02Jan2024"
+      },
+      {
+        "id": 5,
+        "title": "Task 2",
+        "assignedTo": "user2@example.com",
+        "status": "Done",
+        "priority": "High",
+        "startDate": "02Jan2024",
+        "endDate": "02Jan2024"
+      },
+      {
+        "id": 6,
+        "title": "Task 2",
+        "assignedTo": "user2@example.com",
+        "status": "Done",
+        "priority": "High",
+        "startDate": "02Jan2024",
+        "endDate": "02Jan2024"
+      },
+      {
+        "id": 7,
+        "title": "Task 2",
+        "assignedTo": "user2@example.com",
+        "status": "Done",
+        "priority": "High",
+        "startDate": "02Jan2024",
+        "endDate": "02Jan2024"
+      }
+  ]
+  
